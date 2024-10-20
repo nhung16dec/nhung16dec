@@ -1,7 +1,7 @@
 ## TRAN Thi Hong Nhung
 🌱 I’m currently learning at IUT Carcassonne in France. I hope to use data to upskill my workforce, plan effective data strategies, and maximize the returns from investments in data. Over the last 9+ years, I have worked in Vietnam. Early in 2023, I decided to make a significant change by going back to school and relocating to France. 
-## My GitHub Stats
 
+## My GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhung16dec&layout=compact"/>
 
 ## Programming languages and tools
@@ -17,9 +17,6 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </p>
   
-
-
-
 ## Contact info
 - Email: thihongnhung.tran@etudiant.univ-perp.fr
 <!---
