@@ -7,11 +7,11 @@
 ## Programming languages and tools
 <p> 
 Programming languages
-<a style = "text-decoration: none" href="https://www.python.org" > 
+<a style = "text-decoration: none;" href="https://www.python.org" > 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20" height="20"/> </a> 
-<a style = "text-decoration: none" href="https://www.r-project.org" > 
+<a style = "text-decoration: none;" href="https://www.r-project.org" > 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="20" height="20" /></a>
-<a style = "text-decoration: none" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" > 
+<a style = "text-decoration: none;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" > 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" height="20"/> </a> 
 <br>
 Database Management
